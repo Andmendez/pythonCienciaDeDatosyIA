@@ -1,0 +1,2 @@
+# pythonCienciaDeDatosyIA
+ Curso IBM
