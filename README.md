@@ -1,5 +1,5 @@
 # Python Ciencia de Datos y IA
- *** Curso IBM con Coursera ***
+ ### Curso IBM con Coursera 
 
 En este repositorio encontraras lo que desarrolle y aprendi, en el curso que brinda Coursera en conjunto con IBM.
 
